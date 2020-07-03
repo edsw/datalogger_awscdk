@@ -1,1 +1,43 @@
--e .
+attrs==19.3.0
+aws-cdk.assets==1.41.0
+aws-cdk.aws-apigateway==1.41.0
+aws-cdk.aws-applicationautoscaling==1.41.0
+aws-cdk.aws-athena==1.40.0
+aws-cdk.aws-autoscaling-common==1.41.0
+aws-cdk.aws-certificatemanager==1.41.0
+aws-cdk.aws-cloudformation==1.41.0
+aws-cdk.aws-cloudwatch==1.41.0
+aws-cdk.aws-dynamodb==1.41.0
+aws-cdk.aws-ec2==1.41.0
+aws-cdk.aws-elasticloadbalancingv2==1.41.0
+aws-cdk.aws-events==1.41.0
+aws-cdk.aws-glue==1.40.0
+aws-cdk.aws-iam==1.41.0
+aws-cdk.aws-kinesis==1.41.0
+aws-cdk.aws-kms==1.41.0
+aws-cdk.aws-lambda==1.41.0
+aws-cdk.aws-lambda-event-sources==1.41.0
+aws-cdk.aws-logs==1.41.0
+aws-cdk.aws-route53==1.41.0
+aws-cdk.aws-s3==1.41.0
+aws-cdk.aws-s3-assets==1.41.0
+aws-cdk.aws-s3-notifications==1.41.0
+aws-cdk.aws-sns==1.41.0
+aws-cdk.aws-sns-subscriptions==1.41.0
+aws-cdk.aws-sqs==1.41.0
+aws-cdk.aws-ssm==1.41.0
+aws-cdk.cdk-assets-schema==1.41.0
+aws-cdk.cloud-assembly-schema==1.41.0
+aws-cdk.core==1.41.0
+aws-cdk.custom-resources==1.41.0
+aws-cdk.cx-api==1.41.0
+aws-cdk.region-info==1.41.0
+cattrs==1.0.0
+constructs==3.0.3
+# Editable Git install with no remote (datalogger-awscdk==0.0.1)
+-e /Users/ed/Documents/code/datalogger-awscdk/datalogger_awscdk
+jsii==1.5.0
+publication==0.0.3
+python-dateutil==2.8.1
+six==1.14.0
+typing-extensions==3.7.4.2
